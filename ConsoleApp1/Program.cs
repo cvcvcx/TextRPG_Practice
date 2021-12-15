@@ -157,8 +157,7 @@ namespace CSharp
                     CreatePlayer(choice, out player);
 
                     EnterGame();
-                    //필드로 가서 몬스터랑 싸움
-                    break;
+                    //필드로 가서 몬스터랑 싸움                    
                 }
                     
             }
