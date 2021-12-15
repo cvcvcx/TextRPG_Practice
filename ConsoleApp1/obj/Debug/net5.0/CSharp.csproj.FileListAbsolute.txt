@@ -1,0 +1,16 @@
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\bin\Debug\net5.0\CSharp.exe
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\bin\Debug\net5.0\CSharp.deps.json
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\bin\Debug\net5.0\CSharp.runtimeconfig.json
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\bin\Debug\net5.0\CSharp.runtimeconfig.dev.json
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\bin\Debug\net5.0\CSharp.dll
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\bin\Debug\net5.0\ref\CSharp.dll
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\bin\Debug\net5.0\CSharp.pdb
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\obj\Debug\net5.0\CSharp.csprojAssemblyReference.cache
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\obj\Debug\net5.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\obj\Debug\net5.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\obj\Debug\net5.0\CSharp.AssemblyInfo.cs
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\obj\Debug\net5.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\obj\Debug\net5.0\CSharp.dll
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\obj\Debug\net5.0\ref\CSharp.dll
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\obj\Debug\net5.0\CSharp.pdb
+C:\Users\cho changhun\Documents\GitHub\TextRPG_Practice\ConsoleApp1\obj\Debug\net5.0\CSharp.genruntimeconfig.cache
